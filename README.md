@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Gopal Alag
-- 👀 I have been in IT industry for 15+ years and currently working as Technical Architect and LEAD Developer role.
-- 🌱 I’m currently learning React and Angular.
-- 💞️ I’m looking to collaborate on this with all developer forum on this github platform
-- 📫 How to reach me ...You can reach me at : gopallinsoft1@gmail.com
+Hi, 
+I'm Gopal 👋 I'm a hands-on engineering manager. I read code, I write code, and I lead by example.
+I'm currently working as SVP · Application Engineering Manager · Solution & Business Architect
+20+ years building software for financial institution in Banking and wealth management sectors in private bank, retail which includes · Citi · Bank of America · Charles Schwab · Lloyds Banking Group.I lead engineering organizations that ship GenAI, Agentic AI, and Workflow Automation at the scale. 
 
-<!---
-GopalAlag/GopalAlag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks-Gopal.
+
